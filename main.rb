@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require_relative 'lib/crossword_helper'
 
 ch = CrosswordHelper.new('wordlist.txt')
